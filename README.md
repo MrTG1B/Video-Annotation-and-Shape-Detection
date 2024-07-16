@@ -31,7 +31,7 @@ This Python script captures video from the default camera, allows users to draw 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MrTG1B/Video-Annotation-and-Shape-Detection.git
+   [git clone https://github.com/MrTG1B/Video-Annotation-and-Shape-Detection.git](https://github.com/MrTG1B/Video-Annotation-and-Shape-Detection.git)
    ```
 
 2. Navigate into the project directory:
